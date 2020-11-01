@@ -14,6 +14,7 @@ huff.py compress FULL_FILEPATH.txt
 huff.py compress FULL/DIRECTORY/PATH
 ```
 
+
 #### Decompress
 In command line:
 
